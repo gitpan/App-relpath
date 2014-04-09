@@ -23,7 +23,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=App-relpath
   homepage: https://metacpan.org/release/App-relpath
   repository: git://github.com/sharyanto/perl-App-relpath.git
-version: 0.01
+version: 0.02
 x_Dist_Zilla:
   perl:
     version: 5.018001

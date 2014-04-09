@@ -1,6 +1,6 @@
 package App::relpath;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 1;
 # ABSTRACT: Return the relative pathname
@@ -17,7 +17,7 @@ App::relpath - Return the relative pathname
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
