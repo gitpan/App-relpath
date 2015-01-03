@@ -1,6 +1,6 @@
 package App::relpath;
 
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 1;
 # ABSTRACT: Return the relative pathname
@@ -17,7 +17,7 @@ App::relpath - Return the relative pathname
 
 =head1 VERSION
 
-This document describes version 0.03 of App::relpath (from Perl distribution App-relpath), released on 2014-12-05.
+This document describes version 0.04 of App::relpath (from Perl distribution App-relpath), released on 2015-01-03.
 
 =head1 SYNOPSIS
 
@@ -29,7 +29,7 @@ Please visit the project's homepage at L<https://metacpan.org/release/App-relpat
 
 =head1 SOURCE
 
-Source repository is at L<https://github.com/perlancar/perl-App-relpath>.
+Source repository is at L<https://github.com/sharyanto/perl-App-relpath>.
 
 =head1 BUGS
 
@@ -45,7 +45,7 @@ perlancar <perlancar@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2014 by perlancar@cpan.org.
+This software is copyright (c) 2015 by perlancar@cpan.org.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
